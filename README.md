@@ -5,4 +5,5 @@ In this repository, we provide the MATLAB GUI and Testing Code for the Coronavir
 
 **Overview of the workflow for the proposed COVID-19 Classification Framework**
 In this work, a new classification framework is developed based on deep learning and classical ML techniques for automatic discrimination of COVID-19 infected patients from healthy individuals based on chest X-ray images. The proposed classification framework is constituted of two modules: (i) Proposed COVID-RENet based end-to-end Classification, and (ii) Deep Concatenated Feature-space based ML classification. In the experimental setup, initially, training samples were augmented to improve the generalization. These augmented samples were used to train the two proposed modules. Fig. 1. (A) shows the modules of the proposed COVID-19 classification framework, whereas (B) gives the detailed overview of the workflow.
+![workflow](https://user-images.githubusercontent.com/87992381/127025469-32b88253-9f5f-401f-8efc-0618d92783ce.png)
 
